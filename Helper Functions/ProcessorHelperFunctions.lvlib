@@ -6,7 +6,9 @@
 	<Item Name="Angle Correction PID.vi" Type="VI" URL="../Angle Correction PID.vi"/>
 	<Item Name="Arc Mode Select.vi" Type="VI" URL="../Arc Mode Select.vi"/>
 	<Item Name="AssignDirections.vi" Type="VI" URL="../AssignDirections.vi"/>
+	<Item Name="Boolean Debounce.vi" Type="VI" URL="../Boolean Debounce.vi"/>
 	<Item Name="Control AlgorithmPID.vi" Type="VI" URL="../Control AlgorithmPID.vi"/>
+	<Item Name="Control AlgorithmV2.vi" Type="VI" URL="../Control AlgorithmV2.vi"/>
 	<Item Name="Edge Detect.vi" Type="VI" URL="../Edge Detect.vi"/>
 	<Item Name="Encoder to Angle conversion.vi" Type="VI" URL="../Encoder to Angle conversion.vi"/>
 	<Item Name="Joystick Angle-Mag.vi" Type="VI" URL="../Joystick Angle-Mag.vi"/>
