@@ -5,8 +5,4 @@
 #ignore personal settings
 *.lvps
 
-#ignore the FPGA bitfiles, they should be built on a per-user basis
-#to ensure compatiability
-
-"FPGA Bitfiles/*"
 

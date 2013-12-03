@@ -2,3 +2,5 @@
 
 *.vi merge=labview diff=labview
 
+#set these as binary files
+*.lvbitx binary
